@@ -1,4 +1,4 @@
-# application_1
+# Scaffold Widget
 
 A new Flutter project.
 
